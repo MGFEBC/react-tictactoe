@@ -2,7 +2,7 @@
   "name": "demo-react-tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mgbc2022.github.io/react-tictactoe",
+  "homepage": "https://mgbc2022.github.io/demo-react-tictactoe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
